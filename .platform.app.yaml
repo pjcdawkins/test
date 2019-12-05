@@ -3,5 +3,5 @@ type: php:7.4
 web:
   locations:
     '/':
-      root: '/'
-      passthru: index.php
+      root: ''
+      passthru: /index.php
